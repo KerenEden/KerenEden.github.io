@@ -1,3 +1,3 @@
 # KerenEden.github.io
 Python course
-I like coffee
+I like coffee.
