@@ -1,5 +1,3 @@
-# KerenEden.github.io
-
 
 PhD Student in Molecular Biology | Weizmann Institute of Science
 
