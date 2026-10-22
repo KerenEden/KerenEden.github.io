@@ -22,7 +22,3 @@ Handling large biological datasets manually in Excel is time-consuming and prone
 Outside the lab, I enjoy cooking, baking, hosting, and reading books.
 
 ---
-
-## AI Prompts Used
-
-In accordance with the assignment requirements, here are the prompts used with the AI assistant to generate the content for this page:
