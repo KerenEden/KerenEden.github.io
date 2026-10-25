@@ -1,6 +1,5 @@
-<div style="display: flex; align-items: center; gap: 25px; margin-bottom: 20px;">
-  <img src="./images/profile.jpg" alt="Profile" style="width: 160px; height: 160px; min-width: 160px; object-fit: cover; object-position: center 35%; border-radius: 50%; border: 4px solid #3b82f6; box-shadow: 0 6px 16px rgba(59, 130, 246, 0.25); margin: 0;">
-  <h1 style="margin: 0; border-bottom: none;">Keren Eden</h1>
+<div style="text-align: center; margin-top: -160px; margin-bottom: 30px; position: relative; z-index: 10;">
+  <img src="./images/profile.jpg" alt="Profile Picture" style="width: 160px; height: 160px; min-width: 160px; object-fit: cover; object-position: center 35%; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25); display: inline-block;">
 </div>
 
 ### PhD Student in Molecular Biology
