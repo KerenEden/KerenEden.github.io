@@ -1,9 +1,15 @@
-
 # Keren Eden, M.Sc.
 
-**PhD Student in Molecular Biology**  
-[Weizmann Institute of Science](https://www.weizmann.ac.il/) | Department of Molecular Genetics  
-🧪 **Laboratory:** [Laufman Lab Website](https://www.weizmann.ac.il/molgen/Laufman/)
+<div align="center">
+  <div style="width: 220px; height: 220px; border-radius: 50%; overflow: hidden; border: 4px solid #3b82f6; display: inline-block;">
+    <img src="images/profile.png" alt="Keren Eden" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <h3>PhD Student in Molecular Biology</h3>
+  <p>
+    <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a> | Department of Molecular Genetics<br/>
+    🧪 <strong>Laboratory:</strong> <a href="https://www.weizmann.ac.il/molgen/Laufman/">Laufman Lab Website</a>
+  </p>
+</div>
 
 ---
 
@@ -15,15 +21,14 @@ Our laboratory investigates how positive-strand RNA viruses replicate within hos
 
 ---
 
-
 ## 💻 Why Python & AI
 
 Biological research generates increasingly complex datasets. Handling large-scale biological data manually in tools like Excel is time-consuming and prone to human error. 
 
 Through this course, I am developing workflows to:
-* Automate data processing and analysis.
-* Extract and integrate data efficiently from external biological databases.
-* Build reproducible data pipelines for viral genomics and cell biology research.
+- Automate data processing and analysis.
+- Extract and integrate data efficiently from external biological databases.
+- Build reproducible data pipelines for viral genomics and cell biology research.
 
 ---
 
@@ -34,7 +39,7 @@ When I’m not in the lab, you’ll usually find me in the kitchen! I love bakin
 <br/>
 
 <div align="center">
-  <img src="my_baking.jpg" alt="Culinary Creations" width="500" style="border-radius: 8px;">
+  <img src="images/food.jpg" alt="Culinary Creations" width="500" style="border-radius: 8px;">
   <p><em>Freshly baked goods from my kitchen!</em></p>
 </div>
 
