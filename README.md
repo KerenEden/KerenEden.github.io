@@ -1,24 +1,45 @@
 
-PhD Student in Molecular Biology | Weizmann Institute of Science
+# Keren Eden, M.Sc.
+
+**PhD Student in Molecular Biology**  
+[Weizmann Institute of Science](https://www.weizmann.ac.il/) | Department of Molecular Genetics  
+🧪 **Laboratory:** [Laufman Lab Website](https://www.weizmann.ac.il/molgen/Laufman/)
 
 ---
 
-## About Me
+## 🔬 About My Research
 
-Hi, I’m **Keren Eden**, a PhD student in Molecular Biology at the Weizmann Institute of Science, working in **Orly Laufman’s lab**. 
+I am a PhD student in Molecular Biology at the Weizmann Institute of Science, working in **Prof. Orly Laufman’s lab**. 
 
-Our laboratory studies how positive-strand RNA viruses replicate in human cells, using enteroviruses as model pathogens. My research specifically focuses on uncovering a new regulatory mechanism linking extracellular matrix homeostasis and antiviral defense.
-
----
-
-## Why Python & AI
-
-Handling large biological datasets manually in Excel is time-consuming and prone to errors. I joined this course to automate my data workflows, work more efficiently, and learn how to extract and process data from external databases.
+Our laboratory investigates how positive-strand RNA viruses replicate within host cells, using enteroviruses as primary model pathogens. My specific doctoral research focuses on uncovering novel regulatory mechanisms that link **extracellular matrix homeostasis** with cellular **antiviral defense mechanisms**.
 
 ---
 
-## Interests
 
-Outside the lab, I enjoy cooking, baking, hosting, and reading books.
+## 💻 Why Python & AI
+
+Biological research generates increasingly complex datasets. Handling large-scale biological data manually in tools like Excel is time-consuming and prone to human error. 
+
+Through this course, I am developing workflows to:
+* Automate data processing and analysis.
+* Extract and integrate data efficiently from external biological databases.
+* Build reproducible data pipelines for viral genomics and cell biology research.
 
 ---
+
+## 🥐 Personal Interests 
+
+When I’m not in the lab, you’ll usually find me in the kitchen! I love baking (especially sourdough baguettes and yeast pastries), hosting big multi-course dinners for friends, and getting lost in a good book.
+
+<br/>
+
+<div align="center">
+  <img src="my_baking.jpg" alt="Culinary Creations" width="500" style="border-radius: 8px;">
+  <p><em>Freshly baked goods from my kitchen!</em></p>
+</div>
+
+---
+
+<p align="center">
+  <small>© 2026 Keren Eden | Built with GitHub Pages</small>
+</p>
