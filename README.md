@@ -1,6 +1,7 @@
-# Keren Eden
-<link rel="stylesheet" href="style.css">
-<img src="./images/profile.jpg" alt="Profile Picture">
+<div style="display: flex; align-items: center; gap: 25px; margin-bottom: 20px;">
+  <img src="./images/profile.jpg" alt="Profile Picture">
+  <h1 style="margin: 0; text-align: left;">Keren Eden</h1>
+</div>
 
 ### PhD Student in Molecular Biology
 **Weizmann Institute of Science** | Department of Molecular Genetics  
