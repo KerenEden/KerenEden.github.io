@@ -1,6 +1,6 @@
 # Keren Eden, M.Sc.
 
-![Profile Picture](images/profile.png)
+![Profile Picture](images/profile.jpg)
 
 ### PhD Student in Molecular Biology
 **Weizmann Institute of Science** | Department of Molecular Genetics  
