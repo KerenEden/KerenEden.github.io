@@ -8,7 +8,7 @@
 
 ---
 
-## About My Research
+## 🔬 About My Research
 
 I am a PhD student in Molecular Biology at the Weizmann Institute of Science, working in **Dr. Orly Laufman’s lab**. 
 
@@ -16,7 +16,7 @@ Our laboratory investigates how positive-strand RNA viruses replicate within hos
 
 ---
 
-## Why Python & AI
+## 💻 Why Python & AI
 
 Biological research generates increasingly complex datasets. Handling large-scale biological data manually in tools like Excel is time-consuming and prone to human error. 
 
@@ -27,7 +27,7 @@ Through this course, I am developing workflows to:
 
 ---
 
-## Personal Interests 
+## 🥐 Personal Interests 
 
 When I’m not in the lab, you’ll usually find me in the kitchen! I love baking (especially sourdough baguettes and yeast pastries), hosting big multi-course dinners for friends, and getting lost in a good book.
 
