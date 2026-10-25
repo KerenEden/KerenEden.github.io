@@ -1,5 +1,5 @@
 # Keren Eden
-
+<link rel="stylesheet" href="style.css">
 ![Profile Picture](images/profile.jpg)
 
 ### PhD Student in Molecular Biology
