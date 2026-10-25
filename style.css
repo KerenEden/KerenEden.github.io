@@ -29,10 +29,10 @@ img {
   margin: 20px auto;
 }
 
-/* Special styling for the profile picture (centered circle) */
+/* Special styling for the profile picture (smaller centered circle) */
 img[alt*="Profile"] {
-  width: 200px;
-  height: 200px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid #3b82f6;
