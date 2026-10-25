@@ -9,3 +9,17 @@ img {
   margin: 20px auto;
 }
 
+/* Specific styling for the profile picture - small dimensions, circular frame, and face-focused crop */
+img[alt*="Profile"] {
+  width: 160px !important;
+  height: 160px !important;
+  max-width: 160px !important;
+  max-height: 160px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  object-position: center 35% !important; /* Changed from 15% to 35% to center the face */
+  border: 4px solid #3b82f6;
+  box-shadow: 0 6px 16px rgba(59, 130, 246, 0.25);
+  display: block;
+  margin: 20px auto;
+}
