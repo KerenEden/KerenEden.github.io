@@ -1,4 +1,4 @@
-<div style="text-align: left; margin-top: -160px; margin-bottom: 30px; position: relative; z-index: 10;">
+<div style="text-align: left; margin-top: -220px; margin-bottom: 30px; position: relative; z-index: 10;">
   <img src="./images/profile.jpg" alt="Profile Picture" style="width: 160px; height: 160px; min-width: 160px; object-fit: cover; object-position: center 35%; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25); display: inline-block;">
 </div>
 
