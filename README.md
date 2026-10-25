@@ -9,7 +9,7 @@
 
 ## 🔬 About My Research
 
-I am a PhD student in Molecular Biology at the Weizmann Institute of Science, working in **Prof. Orly Laufman’s lab**. 
+I am a PhD student in Molecular Biology at the Weizmann Institute of Science, working in **Dr. Orly Laufman’s lab**. 
 
 Our laboratory investigates how positive-strand RNA viruses replicate within host cells, using enteroviruses as primary model pathogens. My specific doctoral research focuses on uncovering novel regulatory mechanisms that link **extracellular matrix homeostasis** with cellular **antiviral defense mechanisms**.
 
