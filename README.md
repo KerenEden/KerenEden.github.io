@@ -1,4 +1,4 @@
-# Keren Eden, M.Sc.
+# Keren Eden
 
 ![Profile Picture](images/profile.jpg)
 
