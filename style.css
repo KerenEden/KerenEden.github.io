@@ -1,3 +1,6 @@
+---
+---
+
 /* General site styling */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -20,23 +23,30 @@ h2 {
   color: #2563eb;
 }
 
-/* General images styling */
+/* General images styling (for the food picture) */
 img {
   max-width: 100%;
+  max-height: 350px;
+  object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   display: block;
   margin: 20px auto;
 }
 
-/* Special styling for the profile picture (smaller centered circle) */
+/* Special styling for profile picture - forcing small circular size */
 img[alt*="Profile"] {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 160px !important;
+  height: 160px !important;
+  max-width: 160px !important;
+  max-height: 160px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  object-position: top center !important;
   border: 4px solid #3b82f6;
   box-shadow: 0 6px 16px rgba(59, 130, 246, 0.25);
+  display: block;
+  margin: 20px auto;
 }
 
 /* Center header text at the top of the page */
