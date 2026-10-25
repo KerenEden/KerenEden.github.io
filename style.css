@@ -1,29 +1,4 @@
----
----
-
-/* General site styling */
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  color: #24292e;
-  background-color: #f8fafc;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 40px 20px;
-  line-height: 1.6;
-}
-
-/* Headings styling */
-h1, h2, h3 {
-  color: #1e293b;
-  border-bottom: none;
-}
-
-h2 {
-  margin-top: 30px;
-  color: #2563eb;
-}
-
-/* General images styling (for the food picture) */
+/* General styling for regular images (like the food picture) - maintains proportional size */
 img {
   max-width: 100%;
   max-height: 350px;
@@ -34,7 +9,7 @@ img {
   margin: 20px auto;
 }
 
-/* Special styling for profile picture - forcing small circular size */
+/* Specific styling for the profile picture - small dimensions, circular frame, and face-focused crop */
 img[alt*="Profile"] {
   width: 160px !important;
   height: 160px !important;
@@ -42,39 +17,9 @@ img[alt*="Profile"] {
   max-height: 160px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
-  object-position: top center !important;
+  object-position: center 15% !important; /* The line that fixes the crop to focus on the face instead of the ceiling */
   border: 4px solid #3b82f6;
   box-shadow: 0 6px 16px rgba(59, 130, 246, 0.25);
   display: block;
   margin: 20px auto;
-}
-
-/* Center header text at the top of the page */
-h1 {
-  text-align: center;
-  font-size: 2.2rem;
-  margin-bottom: 5px;
-}
-
-h1 + p {
-  text-align: center;
-}
-
-/* Links styling */
-a {
-  color: #2563eb;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Styled horizontal rule */
-hr {
-  border: none;
-  height: 1px;
-  background-color: #e2e8f0;
-  margin: 30px 0;
 }
