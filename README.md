@@ -30,7 +30,7 @@ Through this course, I am developing workflows to:
 
 ## 🥐 Personal Interests 
 
-When I’m not in the lab, you’ll usually find me in the kitchen! I love baking (especially sourdough baguettes and yeast pastries), hosting big multi-course dinners for friends, and getting lost in a good book.
+When I’m not in the lab, you’ll usually find me in the kitchen! I love baking (especially sourdough baguettes and yeast pastries), hosting big multi-course dinners for friends.
 
 <img src="./images/food.jpeg" alt="Freshly baked goods">
 
