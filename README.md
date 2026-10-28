@@ -6,6 +6,7 @@
 ### PhD Student in Molecular Biology
 **Weizmann Institute of Science** | Department of Molecular Genetics  
 🧪 **Laboratory:** [Laufman Lab Website](https://www.weizmann.ac.il/molgen/Laufman/)
+✉️ **Contact:** [keren.eden@weizmann.ac.il](mailto:keren.eden@weizmann.ac.il)
 
 ---
 
