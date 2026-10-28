@@ -19,7 +19,7 @@ Our laboratory investigates how positive-strand RNA viruses replicate within hos
 
 ## 💻 Why Python & AI
 
-Biological research generates increasingly complex datasets. Handling large-scale biological data manually in tools like Excel is time-consuming and prone to human error. 
+Biological research generates increasingly complex datasets. Handling large-scale biological data manually in tools like Excel is time-consuming and prone to human error
 
 Through this course, I am developing workflows to:
 - Automate data processing and analysis.
